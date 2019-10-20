@@ -1,0 +1,215 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Pugh Hall",
+        "address": "Pugh Hall, Gainesville, FL 32603, USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.345463,
+          29.649428
+        ],
+        "type": "Point"
+      },
+      "id": "01828515ba06b4760f6f0e522aeea3c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Computer Science Engineering",
+        "address": "432 Newell Dr, Gainesville, FL 32611, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.344042,
+          29.648111
+        ],
+        "type": "Point"
+      },
+      "id": "028d84d0dd59617fd487a3a2cb42223a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Black Hall - Environmental Science",
+        "address": "365 Weil Hall, Gainesville, FL 32611, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.347842,
+          29.641919
+        ],
+        "type": "Point"
+      },
+      "id": "0d451027b7fbd4e51d1278afa60c30f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Little Hall",
+        "address": "Stadium Rd, Gainesville, FL 32601, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.340791,
+          29.648841
+        ],
+        "type": "Point"
+      },
+      "id": "106db675346f987641601b720b06f188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "McCarty Hall B",
+        "address": "1676 MCCARTY DR  GAINESVILLE, FL 32611"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.344949,
+          29.646744
+        ],
+        "type": "Point"
+      },
+      "id": "3dff042fb7e68e35226fa1b49bdd5544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Benton Hall",
+        "address": "946 CENTER DR  GAINESVILLE, FL 32611"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.347653,
+          29.643411
+        ],
+        "type": "Point"
+      },
+      "id": "41962b2580541809ee2456365b3d4032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Anderson Hall",
+        "address": "1507 W University Ave, Gainesville, FL 32611, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.341889,
+          29.651568
+        ],
+        "type": "Point"
+      },
+      "id": "4da4b4a26d81042c17d472546f416287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Chemistry Laboratory Building",
+        "address": "125 Buckman Dr, Gainesville, FL 32611, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.344152,
+          29.650887
+        ],
+        "type": "Point"
+      },
+      "id": "8f1e3882edabb77049305a57bce4fe63"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Weimer Hall",
+        "address": "Weimer Hall, Gainesville, FL 32603, USA"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.347527,
+          29.647835
+        ],
+        "type": "Point"
+      },
+      "id": "a8e3dc0b9d26b32e1400647c9f6ed9db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Engineering Building",
+        "address": "1949 Stadium Rd, Gainesville, FL 32611, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.34851,
+          29.64838
+        ],
+        "type": "Point"
+      },
+      "id": "af34f3ccb92450daba0dda509c56ffcc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Florida Gymnasium",
+        "address": "1864 STADIUM RD  GAINESVILLE, FL 32611"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.347269,
+          29.649182
+        ],
+        "type": "Point"
+      },
+      "id": "b77fede572cf3e1cffd5e7b2bcf4a187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Music Building",
+        "address": "Gainesville, FL 32611, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.342557,
+          29.64813
+        ],
+        "type": "Point"
+      },
+      "id": "e518a5f494cfdc13adac6fa323f0e370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Turlington Hall",
+        "address": "330 Newell Dr, Gainesville, FL 32611, United States"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.344034,
+          29.649219
+        ],
+        "type": "Point"
+      },
+      "id": "f92899e844e6c5fa231f686d21293183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Norman Hall",
+        "address": "1221 SW 5 Ave, Gainesville, FL 32601"
+      },
+      "geometry": {
+        "coordinates": [
+          -82.3381,
+          29.6470
+        ],
+        "type": "Point"
+      },
+      "id": "f68888v844x6y5fa231f686d33703283"
+    }
+  ],
+  "type": "FeatureCollection"
+}
